@@ -59,7 +59,7 @@ This project demonstrates game development fundamentals such as event handling, 
 - Add sound effects for eating and game over.
 - Implement multiple levels or themes.
 
-👨‍💻 Author
+👨‍💻 developer
 Gagandeep Singh Rathore
 Built as a fun project to practice Python GUI programming and game logic.
 
